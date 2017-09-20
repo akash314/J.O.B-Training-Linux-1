@@ -1,0 +1,6 @@
+Filesystem      Size   Used  Avail Capacity  iused     ifree %iused  Mounted on
+/dev/disk1     465Gi   57Gi  408Gi    13% 14909075 106930539   12%   /
+devfs          189Ki  189Ki    0Bi   100%      652         0  100%   /dev
+map -hosts       0Bi    0Bi    0Bi   100%        0         0  100%   /net
+map auto_home    0Bi    0Bi    0Bi   100%        0         0  100%   /home
+/dev/disk2s2   1.8Ti   69Gi  1.8Ti     4% 18077783 470216883    4%   /Volumes/Seagate Backup Plus Drive
