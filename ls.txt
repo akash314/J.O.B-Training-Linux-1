@@ -1,0 +1,15 @@
+total 112
+drwxr-xr-x  19 agarwalakash  staff   646B Sep 18 10:56 ../
+-rw-r--r--   1 agarwalakash  staff   271B Sep 18 10:56 phonebook.csv
+-rw-r--r--   1 agarwalakash  staff   1.9K Sep 18 10:56 gettysburg-address.txt
+-rw-r--r--   1 agarwalakash  staff   2.2K Sep 18 10:56 exercise5.md
+-rw-r--r--   1 agarwalakash  staff   4.1K Sep 18 10:56 exercise4.md
+-rw-r--r--   1 agarwalakash  staff   3.0K Sep 18 10:56 exercise3.md
+-rw-r--r--   1 agarwalakash  staff   2.6K Sep 18 10:56 exercise2.md
+-rw-r--r--   1 agarwalakash  staff   149B Sep 18 10:56 cutpractice.txt
+-rw-r--r--   1 agarwalakash  staff   6.5K Sep 18 10:56 README.md
+-rw-r--r--   1 agarwalakash  staff    11K Sep 18 10:56 LICENSE
+drwxr-xr-x  12 agarwalakash  staff   408B Sep 18 10:56 .git/
+-rw-r--r--   1 agarwalakash  staff   110B Sep 20 09:10 pwd.txt
+-rw-r--r--   1 agarwalakash  staff     0B Sep 20 09:11 ls.txt
+drwxr-xr-x  14 agarwalakash  staff   476B Sep 20 09:11 ./
